@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2ff46e2-b9ff-490c-9138-70ab133f79d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem Set 0/playback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a2ff46e2-b9ff-490c-9138-70ab133f79d4" name="Changes" comment="2nd problem">
+      <change afterPath="$PROJECT_DIR$/Problem Set 0/faces.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
   <component name="ProjectId" id="2NJoUDOzkjQOXFd9dmcbtxzRybP" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,12 +86,31 @@
       <workItem from="1679391575519" duration="23000" />
       <workItem from="1679392278815" duration="23000" />
       <workItem from="1679756708692" duration="2025000" />
-      <workItem from="1679814792347" duration="327000" />
+      <workItem from="1679814792347" duration="632000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd problem">
+      <created>1679815211882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679815211882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd problem">
+      <created>1679815233055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679815233055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd problem" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS50$playback.coverage" NAME="playback Coverage Results" MODIFIED="1679815096995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problem Set 0" />
